@@ -1,12 +1,4 @@
-@media screen and (min-width:600px) and (max-width: 760px) {
-    body {
-        background-image: url(imagens/cell.png);
-        background-repeat: no-repeat;
-        background-size: 100%;
-        
-    }
-    
-}
+
 html {
     cursor: url(imagens/mata_mosca.png) 30 30, auto;
     
